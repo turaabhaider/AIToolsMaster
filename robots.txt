@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://turaabhaider.github.io/AIToolsMaster/sitemap.xml
+Sitemap: https://turaabhaider.github.io/SmartTechHelp/sitemap.xml
